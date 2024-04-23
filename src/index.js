@@ -24,7 +24,7 @@ app.listen(PORT, () => {
  * localhost:3000/api/v1/categories/:id
  * localhost:3000/api/v2/products/:id
  * localhost:3000/api/v2/categories/:id
- * localhost:3000/api/v2/user/:id
+ * localhost:3000/api/v2/users/:id
  */
 
 

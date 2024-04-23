@@ -15,6 +15,7 @@ class TodoService {
     getOneTodo(id) {
         return this.todoRepository.get(id);
     }
+    
     getAllTodos(){
         return this.todoRepository.getAll();
     }
