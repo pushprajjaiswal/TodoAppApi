@@ -10,3 +10,6 @@ function createTodoValidator(req, res,next) {
 module.exports = {
     createTodoValidator
 }
+
+
+// IT IS A MIDDLEWARE  FUNCTION THAT CHECKS IF THE REQUEST BODY HAS todoText PROPERTY OR NOT.IF IT DOESN"T HAVE IT THEN IT SENDS AN

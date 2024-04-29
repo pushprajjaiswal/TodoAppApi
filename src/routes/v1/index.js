@@ -7,7 +7,5 @@ const router = express.Router();
 
 router.use('/todos', todoRouter);
 router.get('/ping',homePingController); // /ping
- 
-
 
 module.exports = router;
